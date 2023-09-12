@@ -1,0 +1,30 @@
+:root{
+	--mainColor:#c55204;
+	--secondaryColor:#bd650d;
+
+	--borderColor:#191614;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgba(90, 79, 72, 0.8);
+	--previewShadow:#2f2b25;
+
+
+	--buttonColor:#ff8000;
+
+
+	/* content: '';
+    position: absolute;
+    left: -50%;
+    top: -50%;
+    width: 200%;
+    height: 200%;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-position: 0 0;
+    background-image: linear-gradient(#399953, #399953); */
+}
